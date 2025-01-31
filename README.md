@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<!--     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Icon Layout</title>
     <style>
@@ -13,7 +13,7 @@
         .icon-container img {
             margin: 10px;
         }
-    </style>
+    </style> -->
 </head>
 <body>
 
